@@ -1,0 +1,6 @@
+[submodule "apache-cordova"]
+	path = apache-cordova
+	url = https://github.com/dawsonloudon/mobile_app.git
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/grok/wordpress-ediblereno.git
